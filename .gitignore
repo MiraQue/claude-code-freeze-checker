@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sprites (user-added, not tracked)
+freeze_checker/sprites/*.png
+freeze_checker/sprites/*.jpg
+freeze_checker/sprites/*.jpeg
+freeze_checker/sprites/*.bmp
+freeze_checker/sprites/*.webp
+# Keep the README
+!freeze_checker/sprites/README.md
