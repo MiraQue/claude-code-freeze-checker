@@ -42,7 +42,7 @@ A sprite sheet animator. Drop a sprite sheet, choose rows, set frame rate, and p
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/hamoriya/patlas-tools.git
+git clone https://github.com/MiraQue/claude-code-tools.git
 cd patlas-tools
 ```
 
@@ -157,7 +157,7 @@ Claude Code ユーザー向けの軽量デスクトップ補助ツール集で�
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/hamoriya/patlas-tools.git
+git clone https://github.com/MiraQue/claude-code-tools.git
 ```
 
 ### 2. Claude Code でフォルダを開く
