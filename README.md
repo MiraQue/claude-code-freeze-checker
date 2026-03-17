@@ -1,6 +1,8 @@
-# PATLAS Tools
+# Claude Code Freeze Checker
 
-Lightweight desktop companion tools for [Claude Code](https://claude.ai/code) users.
+Real-time activity monitor for [Claude Code](https://claude.ai/code) — see at a glance whether Claude is thinking, working, waiting, or frozen.
+
+> Part of **claude-code-tools** series by [MiraQue](https://github.com/MiraQue)
 
 > **日本語の説明は下部にあります / Japanese README is below.**
 
@@ -42,7 +44,7 @@ A sprite sheet animator. Drop a sprite sheet, choose rows, set frame rate, and p
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/MiraQue/claude-code-tools.git
+git clone https://github.com/MiraQue/claude-code-freeze-checker.git
 cd patlas-tools
 ```
 
@@ -141,7 +143,9 @@ MIT
 
 ## 概要
 
-Claude Code ユーザー向けの軽量デスクトップ補助ツール集です。
+Claude Code のフリーズチェッカー -- 動作状態をリアルタイム表示する常駐モニターです。
+
+> **claude-code-tools** シリーズ（[MiraQue](https://github.com/MiraQue)）
 
 ## ツール一覧
 
@@ -157,7 +161,7 @@ Claude Code ユーザー向けの軽量デスクトップ補助ツール集で�
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/MiraQue/claude-code-tools.git
+git clone https://github.com/MiraQue/claude-code-freeze-checker.git
 ```
 
 ### 2. Claude Code でフォルダを開く
